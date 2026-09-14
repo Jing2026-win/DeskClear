@@ -1,5 +1,4 @@
 # DeskClear
-https://github.com/Jing2026-win/DeskClear/releases/download/v1.0.0/DeskClear-1.0.0-x64.msi
 自研Windows 桌面整理工具：一键分区整理摆放文件夹、文件和快捷方式，支持自定义格子、便签、待办与全局搜索。无捆绑、无需要注册。
 <img width="1920" height="1080" alt="deskclear-workspace" src="https://github.com/user-attachments/assets/4bc72a3f-84c6-4aa0-9e6b-8870216607ed" />
 <img width="1280" height="720" alt="deskclear-wallpaper" src="https://github.com/user-attachments/assets/1d30b2d8-7427-4100-abad-78a6b21c386b" />
